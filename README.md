@@ -11,7 +11,7 @@
 
 **🎯 >90% Accuracy | 🔬 Binary Classification | 🚀 Production-Ready Deployment**
 
-[🔬 **Live Demo**](https://your-streamlit-app.com) | [📖 **Documentation**](#documentation) | [📈 **Results**](#results) | [🤝 **Contributing**](#contributing)
+[🔬 **Live Demo**](https://pneumonia-detection-kumug8xftkpzapphhaesdn.streamlit.app) |
 
 </div>
 
