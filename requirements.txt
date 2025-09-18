@@ -1,9 +1,9 @@
 streamlit
 tensorflow
 numpy
-opencv-python
 pillow
 matplotlib
 seaborn
 plotly
 pandas
+
