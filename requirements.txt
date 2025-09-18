@@ -1,9 +1,9 @@
 streamlit
-torch
-torchvision
-timm
-scikit-learn
+tensorflow
+numpy
+opencv-python
+pillow
 matplotlib
 seaborn
-pillow
 plotly
+pandas
