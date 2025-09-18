@@ -169,7 +169,7 @@ st.markdown("""
 def load_model():
     """Load the trained DenseNet121 model with error handling"""
     try:
-        model = tf.keras.models.load_model("final_densenet_pneumonia.keras")
+        model = tf.keras.models.load_model("/model/final_densenet_pneumonia.keras")
         return model, True
     except Exception as e:
         st.error(f"Error loading model: {str(e)}")
